@@ -6,10 +6,10 @@ CIT300 Data Structures and Algorithms — Graded Practical Assignment
 
 | Name | Student ID | Responsibility | Contribution |
 |------|-----------|-----------------|---------------|
-| [H.Aafrin Banu] (Group Leader) | [23DA2-0659] | Linked list + student record management | | Implemented Student.java and StudentLinkedList.java (add, update, delete, search, display with duplicate-ID checks). Built Main.java menu and input validation, integrated all data structures, set up the GitHub repository, reviewed and merged pull requests, wrote the README. |
-| [AF.Hilma] | [23DA2-0981] | Stack + queue implementation | | Implemented ActionStack.java (recent actions history, LIFO) and ServiceQueue.java (service requests, FIFO). Tested enqueue/dequeue and history display. Committed on branch feature/stack-queue and opened a pull request. |
-| [RF.Raseedha] | [23DA2-0959] | BST + hashing/search functionality | | Implemented StudentBST.java (insert, search, delete, in-order display by Student ID) and StudentHashTable.java (custom hash table with separate chaining for ID search). Committed on branch feature/bst-hashing and opened a pull request. |
-| [JF.Samrootha] | [23DA2-0813] | Graph + BFS/DFS traversal | | Implemented CampusGraph.java (adjacency list, add/remove locations and connections, display network, BFS and DFS traversal). Committed on branch feature/graph and opened a pull request. |
+| H.Aafrin Banu (Group Leader) | 23DA2-0659 | Linked list + student record management | Implemented Student.java and StudentLinkedList.java (add, update, delete, search, display with duplicate-ID checks). Built Main.java menu and input validation, integrated all data structures, set up the GitHub repository, reviewed and merged pull requests, wrote the README. |
+| AF.Hilma | 23DA2-0981 | Stack + queue implementation | Implemented ActionStack.java (recent actions history, LIFO) and ServiceQueue.java (service requests, FIFO). Tested enqueue/dequeue and history display. Committed on branch feature/stack-queue and opened a pull request. |
+| RF.Raseedha | 23DA2-0959 | BST + hashing/search functionality | Implemented StudentBST.java (insert, search, delete, in-order display by Student ID) and StudentHashTable.java (custom hash table with separate chaining for ID search). Committed on branch feature/bst-hashing and opened a pull request. |
+| JF.Samrootha | 23DA2-0813 | Graph + BFS/DFS traversal | Implemented CampusGraph.java (adjacency list, add/remove locations and connections, display network, BFS and DFS traversal). Committed on branch feature/graph and opened a pull request. |
 
 ## How to Compile and Run
 
